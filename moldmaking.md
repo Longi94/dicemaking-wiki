@@ -2,7 +2,7 @@
 title: Mold Making
 description: How to choose a mold type and the mold making process
 published: true
-date: 2022-03-27T11:32:20.132Z
+date: 2022-03-27T23:20:08.639Z
 tags: mold
 editor: markdown
 dateCreated: 2022-03-27T11:32:20.132Z
@@ -88,7 +88,7 @@ Check inside each mold for any cure inhibition or torn numbers.
 ### 8. Optional
 If making a sprue-cap hybrid mold, you can add in any sprue holes after the mold is finished.
 
-## Cap Mold
+## Sprue Mold
 
 ### 1. Prepare your masters
 Ensure your dice masters are polished, clean, and dry.
