@@ -2,7 +2,7 @@
 title: Getting Started
 description: Preparation and pouring your first set
 published: true
-date: 2022-03-27T21:36:49.187Z
+date: 2022-03-27T21:46:12.491Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-27T12:41:58.868Z
@@ -188,3 +188,58 @@ Yes, some things you already have like eyeshadow, chalk pastels, or dry water co
 This guide can help you determine what stage your resin needs to be at for the technique you are using.
 
 ![pour-road-map.jpg](/pour-road-map.jpg)
+
+# Common Issues
+
+## Uncured Resin
+
+If your resin never fully cures inside your molds (typically caused by improper mixing or temperature issues), it will need to be carefully removed. Use proper PPE and carefully scoop out the uncured resin. Use some warm soapy water and a soft toothbrush to clean out the rest of the residue inside the molds. You can use a little bit of IPA to wipe out any remaining residue as well.
+
+## Cure Inhibition
+
+If you experience sticky or improperly cured silicone, you will need to carefully remove your masters from the mold. Clean them well with warm soapy water and a soft toothbrush. Make sure the numbers are free of any leftover silicone. Check our Troubleshooting guide for potential causes and tips before attempting to make the mold again.
+
+## Soft Cure Resin
+
+Please see the Troubleshooting slide on soft cure dice. You may be able to save them.
+
+# Photographing Dice
+
+## Lighting
+
+Daylight or Diffused Lighting will bring out the best in your dice! 
+
+If you can't use daylight, a light box can help. You can also use parchment or baking paper to diffuse an existing light. 
+
+## Set Up
+
+Using a clean backdrop and simple props (like plants!) can help make your image stand out.
+
+Using a light box can help create a clean backdrop for your images.
+
+## Images
+
+Don't be afraid to take many images and narrow them down as you go.
+
+Crop in your images to focus on your dice.
+
+Consider getting a macro lens to highlight the smaller details in your dice (there are some that can attach to most phones).
+
+Try to avoid using color filters on your dice, they're pretty the way they are! If you have to color correct because they aren't photographing true to color, make sure to mention why it's being used so people don't feel misled.
+
+# Casting Without a Pressure Pot
+
+1. Put both part A and B into a warm water bath for 15 minutes prior to mixing them together (this helps the bubbles rise to the surface and pop).
+
+2. pour your two parts together and mix. To reduce bubbles use a silicone stir rather than wood sticks as wood is porous and adds to the bubbles. 
+
+3. once done stirring let sit for 2-3 minutes and then spray one spritz of rubbing alcohol to pop any surface bubbles that haven’t quite popped yet. 
+
+4. RIGHT before you pour the resin into the mold spray a spritz of rubbing alcohol into the mold and pour the resin in! 
+
+5. wait another 5ish mins and spray one last spritz to pop surface bubbles and put the lid on! 
+
+> While this will significantly reduce the amount of bubbles without a pressure pot it will be near impossible to get rid of all the bubbles! But it’s a good work around if you don’t have one.
+{.is-info}
+
+Shared by @Bayy | DragonMawDice
