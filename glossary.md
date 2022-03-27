@@ -2,7 +2,7 @@
 title: Dice Glossary
 description: Common Dice Making Terms and Phrases
 published: true
-date: 2022-03-27T10:24:22.125Z
+date: 2022-03-27T10:30:37.892Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-27T10:21:59.461Z
@@ -22,8 +22,7 @@ The device that creates pressure inside a pressure pot.
 This is the term for when the resin dries/hardens/solidifies over time. There are a few stages of curing called Soft cure and Hard cure. The time needed to reach these stages is different for each resin brand.
 
 - **Soft Cure**: This is when the resin has hardened enough to appear solid, but still has a softer consistency. They can seem finished, but the resin can bend, stretch, and warp if handled too harshly. Epoxy resin reaches this stage in 12-24 hours. What can you do in the Soft Cure stage? Pull them from the mold and carefully clip the sprue. 
-> What can you NOT do in the Soft Cure stage? Sanding/polishing
-in this stage will only cloud up the faces and ruin the dice.
+> What can you NOT do in the Soft Cure stage? Sanding/polishing in this stage will only cloud up the faces and ruin the dice.
 {.is-warning}
 - **Hard Cure**: After the resin is fully cured and rock solid; this is the point where you can sand/polish. Different brands have different cure times, but waiting a few days before polishing only ensures that you waited long enough.
 
