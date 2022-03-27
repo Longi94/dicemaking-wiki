@@ -2,7 +2,7 @@
 title: Dice Glossary
 description: Common Dice Making Terms and Phrases
 published: true
-date: 2022-03-27T10:30:37.892Z
+date: 2022-03-27T23:18:37.171Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-27T10:21:59.461Z
@@ -118,7 +118,7 @@ A chemical that solidifies into a rubber that resin generally does not stick to.
 
 # U
 
-# UV Resin
+## UV Resin
 A fast-cure plastic that can be used to make dice or fill voids. This type is a single chemical that solidifies when exposed to UV light. This type can harden very quickly.
 
 # V
