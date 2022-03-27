@@ -2,11 +2,16 @@
 title: Glossary
 description: Common Words and Terms
 published: true
-date: 2022-03-27T10:21:59.461Z
+date: 2022-03-27T10:23:28.652Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-27T10:21:59.461Z
 ---
+
+# B
+
+## Blanks
+Slightly smaller dice that don't have numbers. They can later be put into normal dice molds as an inclusion to cast a shell around them.
 
 # C
 
