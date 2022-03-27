@@ -1,8 +1,8 @@
 ---
-title: Glossary
-description: Common Words and Terms
+title: Dice Glossary
+description: Common Dice Making Terms and Phrases
 published: true
-date: 2022-03-27T10:23:28.652Z
+date: 2022-03-27T10:24:22.125Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-27T10:21:59.461Z
